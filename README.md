@@ -10,6 +10,7 @@ Raspberry Pi 4, Sensor UV, Python, MQTT Mosquitto, Telegraf, InfluxDB y Grafana
 
 ## Raspberry Pi
 Revisar con gpioinfo las lineas disponibles
+![pins](./images/gpiopins.png)
 ![gpio](./images/gpioinfo.png)
 
 ## Código python
